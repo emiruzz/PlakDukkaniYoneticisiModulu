@@ -1,0 +1,4 @@
+Sistemde seed data mevcuttur!
+
+Kullanıcı Adı : Admin
+Şifre : Admin123!!
